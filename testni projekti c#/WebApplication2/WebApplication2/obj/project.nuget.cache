@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "/71pgF849InMZZTiokC2MO1bxYEwnu6jTypEgFKWAsg9F/cIiafw5rtNvkTaIMWCg1F5umObWwu4VURtWX9gag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dzoimadjija\\Desktop\\testni projekti c#\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dzoimadjija\\.nuget\\packages\\chart.js\\3.7.1\\chart.js.3.7.1.nupkg.sha512",
+    "C:\\Users\\dzoimadjija\\.nuget\\packages\\chartjscore\\3.10.1\\chartjscore.3.10.1.nupkg.sha512",
+    "C:\\Users\\dzoimadjija\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\dzoimadjija\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
+    "C:\\Users\\dzoimadjija\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LiveCharts 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LiveCharts",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LiveCharts.Wpf 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LiveCharts.Wpf",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

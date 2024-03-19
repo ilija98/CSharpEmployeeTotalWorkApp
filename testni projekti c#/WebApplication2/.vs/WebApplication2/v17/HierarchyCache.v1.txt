@@ -1,0 +1,240 @@
+﻿++Solution 'WebApplication2' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:WebApplication2.sln
+++WebApplication2
+i:{00000000-0000-0000-0000-000000000000}:WebApplication2
+++Connected Services 
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:>600
+++Dependencies
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:>599
+++Properties
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\properties\
+++wwwroot
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\
+++css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\css\
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\js\
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\
+++favicon.ico
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\favicon.ico
+++Controllers
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\controllers\
+++HomeController.cs
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\controllers\homecontroller.cs
+++Models
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\models\
+++EmployeeEntry.cs
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\models\employeeentry.cs
+++EmployeeWorkSummary.cs
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\models\employeeworksummary.cs
+++ErrorViewModel.cs
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\models\errorviewmodel.cs
+++Views
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\views\
+++Home
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\views\home\
+++Index.cshtml
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\views\home\index.cshtml
+++Privacy.cshtml
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\views\home\privacy.cshtml
+++Shared
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\views\shared\
+++_ViewImports.cshtml
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\views\_viewstart.cshtml
+++appsettings.json
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\appsettings.json
+++Program.cs
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\program.cs
+++No service dependencies discovered
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:>601
+++Analyzers
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:analyzers
+++Frameworks
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:frameworks
+++Packages
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:packages
+++launchSettings.json
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\properties\launchsettings.json
+++site.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\css\site.css
+++site.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\js\site.js
+++bootstrap
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\
+++jquery
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery\
+++jquery-validation
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\views\shared\error.cshtml
+++appsettings.Development.json
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\microsoft.netcore.app
+++Newtonsoft.Json (13.0.3)
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:>618
+++dist
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery\dist\
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery\license.txt
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\views\shared\_layout.cshtml.css
+++jquery.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Startup.cs
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:c:\users\dzoimadjija\desktop\testni projekti c#\webapplication2\webapplication2\startup.cs
+++LiveCharts (0.9.7)
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:>683
+++LiveCharts.Wpf (0.9.7)
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:>684
+++PieChartGenerator.cs
+++Chart.js (3.7.1)
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:>687
+++ChartJSCore (3.10.1)
+i:{af75c2c0-2210-45e7-be80-a9ed86178bbe}:>688

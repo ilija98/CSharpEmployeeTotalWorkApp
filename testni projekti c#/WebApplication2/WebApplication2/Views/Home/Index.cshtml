@@ -1,0 +1,143 @@
+﻿@model List<EmployeeWorkSummary>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Work Summary</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        table {
+            width: 80%;
+            margin: auto;
+            border-collapse: collapse;
+            border: 2px solid black;
+            background-color: white;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+            border-bottom: 1px solid black;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .total-hours {
+            text-align: center;
+        }
+        .red-row {
+            background-color: #ffcccc !important;
+        }
+        .legend {
+            list-style-type: none;
+            display: flex;
+            justify-content: center;
+            padding: 0;
+            margin-top: 10px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-right: 20px;
+        }
+        .legend-item span {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            margin-right: 5px;
+        }
+        canvas {
+            width: 80%;
+            margin: auto;
+            display: block;
+            max-width: 400px; 
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">Employee Work Summary</h1>
+    <div class="table-responsive">
+        <table>
+            <thead>
+                <tr>
+                    <th style="text-align: center;">Employee Name</th>
+                    <th style="text-align: center;">Total Work Hours</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    var sortedEmployees = Model.Where(e => !string.IsNullOrWhiteSpace(e.EmployeeName)).OrderByDescending(e => e.TotalWorkHours);
+                }
+                @foreach (var entry in sortedEmployees)
+                {
+                    <tr class="@((entry.TotalWorkHours < 100) ? "red-row" : "")">
+                        <td>@entry.EmployeeName</td>
+                        <td class="total-hours">@Math.Round(entry.TotalWorkHours)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <canvas id="pieChart"></canvas>
+    <ul class="legend" id="chartLegend"></ul>
+
+    <script>
+        var employeeData = @Html.Raw(Json.Serialize(Model.Select(e => new { employeeName = e.EmployeeName, totalWorkHours = Math.Round(e.TotalWorkHours) })));
+
+        var sortedEmployeeData = employeeData.sort((a, b) => b.totalWorkHours - a.totalWorkHours);
+
+        var employeeNames = sortedEmployeeData.map(entry => entry.employeeName);
+        var totalWorkHours = sortedEmployeeData.map(entry => entry.totalWorkHours);
+
+        var ctx = document.getElementById('pieChart').getContext('2d');
+        var pieChart = new Chart(ctx, {
+            type: 'pie',
+            data: {
+                labels: employeeNames,
+                datasets: [{
+                    data: totalWorkHours,
+                    backgroundColor: getRandomColors(totalWorkHours.length)
+                }]
+            },
+            options: {
+                responsive: true,
+                legend: {
+                    display: false
+                },
+            }
+        });
+
+        // Kreiranje legende ispod pie charta
+        var legend = document.getElementById('chartLegend');
+        var chartData = pieChart.data.datasets[0].data;
+        var chartColors = pieChart.data.datasets[0].backgroundColor;
+
+        for (var i = 0; i < chartData.length; i++) {
+            var listItem = document.createElement('li');
+            listItem.classList.add('legend-item');
+
+            var colorBox = document.createElement('span');
+            colorBox.style.backgroundColor = chartColors[i];
+            listItem.appendChild(colorBox);
+
+            var legendText = document.createTextNode(employeeNames[i] + ' (' + chartData[i] + ' hours)');
+            listItem.appendChild(legendText);
+
+            legend.appendChild(listItem);
+        }
+
+        function getRandomColors(numColors) {
+            var colors = [];
+            for (var i = 0; i < numColors; i++) {
+                var color = '#' + (Math.random() * 0xFFFFFF << 0).toString(16).padStart(6, '0');
+                colors.push(color);
+            }
+            return colors;
+        }
+    </script>
+</body>
+</html>
